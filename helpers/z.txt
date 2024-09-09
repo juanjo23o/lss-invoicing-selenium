@@ -1,0 +1,22 @@
+Lean Staffing Solutions Inc.	Description	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12	Unnamed: 13	Unnamed: 14	Unnamed: 15	Unnamed: 16	Unnamed: 17	Unnamed: 18	Unnamed: 19	Unnamed: 20	Unnamed: 21
+Title:	Detail Roster																				
+Company:	acertus - acertus																				
+Invoice Date:	Aug 15,2024 - Sep 14,2024																				
+Billable Workdays:	21																				
+Generation Date:	Aug 20,2024 - 10:36:02																				
+																					
+Workplace	Employee ID	Name	Title	Status	Customer Ref. N° 1	Customer Ref. N° 2	Monthly Rate	Prorate / Credit Days	Prorate Amount	Credit Amount	Set Up Fee	Equipment Fee	Bonus / Commission	OT Hours	OT Amount	Credit for Floaters	Gross Amount Billed	Active Date	Rate Adjustment Date	Removal Date	Assigned Date
+Colombia	1140883546	Ana Milena Ortiz Molina	order validation specialist	Active			2463.82	0	0	0	0	75	0	0	0	0	2538.82	06/08/2023	06/15/2024		
+Colombia	1234097544	Gabriela Ibarra Gonzalez	driver recruiter	Active			2691	0	0	0	0	75	0	0	0	0	2766	12/15/2022	12/15/2023		
+Colombia	1018432641	Kael Omar Insignares Feo	driver recruiter	Active			2691	0	0	0	0	75	0	0	0	0	2766	08/22/2023	08/15/2024		
+Colombia	1044426820	Linnette Lucia Gomez Muñoz	order validation specialist	Active			2463.82	0	0	0	0	75	0	0	0	0	2538.82	09/27/2021	11/15/2023		
+Colombia	1100403045	Maria Daniela Nuñez Osorio	order validation specialist	Active			2463.82	0	0	0	0	75	0	2	32	0	2570.82	04/11/2022	04/15/2024		
+Colombia	1140902148	Michelle Andrade Gutierrrez	order validation specialist	Active			2463.81	0	0	0	0	75	0	0	0	0	2538.81	02/07/2022	03/15/2024		
+Colombia	1143463427	Roxana Margarita Mercado Delgado	order validation specialist	Active			2380.5	0	0	0	0	75	0	0	0	0	2455.5	11/02/2022	11/15/2023		
+Colombia	1045694761	Sara Belissa Hernández Dodge	data entry	Active			2463.82	0	0	0	0	75	0	0	0	0	2538.82	07/25/2022	08/15/2024		
+							20081.59	0	0	0	0	600	0	2	32	0	20713.59				
+			Gross Employee Total	20713.59																	
+			Total Amount Due	20713.59																	
+																					
+			Description	Value																	
+			Total Set up fees charged	13																	
